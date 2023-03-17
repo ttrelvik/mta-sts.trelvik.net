@@ -1,4 +1,4 @@
 version: STSv1
 mode: testing
-mx: mx.hover.com.cust.hostedemail.com # secondary mailservers, add one line for each.
-max_age: 300              # 604800 seconds = 1 week
+mx: mx.hover.com.cust.hostedemail.com
+max_age: 86400
