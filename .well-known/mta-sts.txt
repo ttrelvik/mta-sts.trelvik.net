@@ -1,5 +1,5 @@
 version: STSv1
-mode: testing
+mode: enforce
 mx: gmr-smtp-in.l.google.com
 mx: alt1.gmr-smtp-in.l.google.com
 mx: alt2.gmr-smtp-in.l.google.com
