@@ -1,8 +1,5 @@
 version: STSv1
-mode: enforce
-mx: gmr-smtp-in.l.google.com
-mx: alt1.gmr-smtp-in.l.google.com
-mx: alt2.gmr-smtp-in.l.google.com
-mx: alt3.gmr-smtp-in.l.google.com
-mx: alt4.gmr-smtp-in.l.google.com
-max_age: 86400
+mode: testing
+mx:  mxa.mailgun.org
+mx: mxb.mailgun.org
+max_age: 1440
