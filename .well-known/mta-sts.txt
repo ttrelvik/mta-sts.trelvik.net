@@ -2,4 +2,5 @@ version: STSv1
 mode: testing
 mx:  mxa.mailgun.org
 mx: mxb.mailgun.org
-max_age: 1440
+mx: *.mx.cloudflare.net
+max_age: 1800
